@@ -1,0 +1,4834 @@
+{
+  "error_no": 0,
+  "error_msg": "",
+  "result": {
+    "discount_info": {
+      "is_discount_send": 0,
+      "is_discount_first_order": 0,
+      "discount_send_show": "",
+      "discount_first_order_show": ""
+    },
+    "invoice_info": {
+      "is_support_invoice": 1,
+      "support_invoice_show": "开发票",
+      "support_invoice_show_short": "发票"
+    },
+    "coupon_info": [],
+    "filter": {
+      "wd": "",
+      "taste": "",
+      "sortby": "",
+      "promotion": ""
+    },
+    "shop_info": [
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "157867440",
+        "advance_need_order_day": 0,
+        "shop_name": "肯德基宅急送现磨咖啡馆（运河店）",
+        "rank_str": "{\"finalStr\":6,\"strList\":[\"10\",\"6\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/abc1ec09c14950088a9d0db91a19ffd9dd",
+        "takeout_price": "0",
+        "takeout_cost": "9",
+        "delivery_time": "30",
+        "bussiness_status": 3,
+        "shop_id": "157867440",
+        "saled_month": 1,
+        "shop_lng": 13374900,
+        "shop_lat": 3523480,
+        "source_name": "30660",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 1,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "0",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 228.456,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg;https://img.waimai.baidu.com/pb/941d35dc52c456587613e73d95cf5261cd",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "c347062"
+        ],
+        "average_score": 5,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          },
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 1,
+          "support_invoice_show": "开发票",
+          "support_invoice_show_short": "发票"
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "157964070",
+        "advance_need_order_day": 0,
+        "shop_name": "大通冰室（锦昌文华苑店）",
+        "rank_str": "{\"finalStr\":6,\"strList\":[\"10\",\"6\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"categoryIdDish\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/f7a9bbc6d03bd8219ad96211f5ff57a024",
+        "takeout_price": "20",
+        "takeout_cost": 5,
+        "delivery_time": "35",
+        "bussiness_status": 3,
+        "shop_id": "157964070",
+        "saled_month": 0,
+        "shop_lng": 13375100,
+        "shop_lat": 3522780,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 1,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "36",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 833.602,
+        "recommended_reason": "可以说是十分美味了",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg;https://img.waimai.baidu.com/pb/941d35dc52c456587613e73d95cf5261cd",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [],
+        "average_score": 5,
+        "front_logistics_text": "百度专送",
+        "front_logistics_type": "baidulogistics",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "express",
+            "msg": "百度专送"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 1,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1992080527",
+        "advance_need_order_day": 0,
+        "shop_name": "粥饭世家（运河上街店）",
+        "rank_str": "{\"finalStr\":6,\"strList\":[\"10\",\"6\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/d3f88cd652ce6d9196d6b16d26202529a3",
+        "takeout_price": "20",
+        "takeout_cost": 5,
+        "delivery_time": "35",
+        "bussiness_status": 3,
+        "shop_id": "1992080527",
+        "saled_month": 2,
+        "shop_lng": 13375300,
+        "shop_lat": 3523630,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 9,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "17.5",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 301.635,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg;https://img.waimai.baidu.com/pb/941d35dc52c456587613e73d95cf5261cd",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "534698"
+        ],
+        "average_score": 4.6,
+        "front_logistics_text": "百度专送",
+        "front_logistics_type": "baidulogistics",
+        "welfare_info": [
+          {
+            "aid": "534698",
+            "start_time": "1467204029",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减13元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减13",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "express",
+            "msg": "百度专送"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "534698",
+            "start_time": "1467204029",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减13元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减13",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 1,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1593446791",
+        "advance_need_order_day": 0,
+        "shop_name": "晓麟（衢州街店）",
+        "rank_str": "{\"finalStr\":10,\"strList\":[\"10\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/bbfee388ba932d2a56836539e0b711acc7",
+        "takeout_price": "15",
+        "takeout_cost": "3",
+        "delivery_time": "35",
+        "bussiness_status": 3,
+        "shop_id": "1593446791",
+        "saled_month": 9,
+        "shop_lng": 13375300,
+        "shop_lat": 3523800,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "18",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 338.014,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "2884919",
+          "534632"
+        ],
+        "average_score": 4.9,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "2884919",
+            "start_time": "1516701386",
+            "end_time": "1548172800",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满20减7，满30减9，满50减11",
+            "msg_short": [
+              "满20减7",
+              "满30减9",
+              "满50减11"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满20元减7元，满30元减9元，满50元减11元",
+                "discount_rate": 35
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满20元减7元，满30元减9元，满50元减11元",
+                "discount_rate": 35
+              }
+            ],
+            "msg_origin": "满20减7，满30减9，满50减11",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534632",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减7元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减7",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "2884919",
+            "start_time": "1516701386",
+            "end_time": "1548172800",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满20减7，满30减9，满50减11",
+            "msg_short": [
+              "满20减7",
+              "满30减9",
+              "满50减11"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满20元减7元，满30元减9元，满50元减11元",
+                "discount_rate": 35
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满20元减7元，满30元减9元，满50元减11元",
+                "discount_rate": 35
+              }
+            ],
+            "msg_origin": "满20减7，满30减9，满50减11",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534632",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减7元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减7",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满20减7，满30减9，满50减11"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1450416493",
+        "advance_need_order_day": 0,
+        "shop_name": "杨铭宇黄焖鸡米饭（湖州街店）",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/aea14b51cdcd49270bdc864b617c4dc893",
+        "takeout_price": "20",
+        "takeout_cost": "4",
+        "delivery_time": "45",
+        "bussiness_status": 3,
+        "shop_id": "1450416493",
+        "saled_month": 26,
+        "shop_lng": 13375100,
+        "shop_lat": 3524340,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "14",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 550.757,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "2969273",
+          "534654"
+        ],
+        "average_score": 4.4,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "2969273",
+            "start_time": "1520438400",
+            "end_time": "1543593599",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满22减9，满35减12，满53减14",
+            "msg_short": [
+              "满22减9",
+              "满35减12",
+              "满53减14"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满22元减9元，满35元减12元，满53元减14元",
+                "discount_rate": 40
+              }
+            ],
+            "msg_origin": "满22减9，满35减12，满53减14",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "2969273",
+            "start_time": "1520438400",
+            "end_time": "1543593599",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满22减9，满35减12，满53减14",
+            "msg_short": [
+              "满22减9",
+              "满35减12",
+              "满53减14"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满22元减9元，满35元减12元，满53元减14元",
+                "discount_rate": 40
+              }
+            ],
+            "msg_origin": "满22减9，满35减12，满53减14",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满22减9，满35减12，满53减14"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "2109607103",
+        "advance_need_order_day": 0,
+        "shop_name": "中街1946（乐堤港店）",
+        "rank_str": "{\"finalStr\":21,\"strList\":[\"10\",\"21\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/5de43e358cdb08e1d2cb6fe9a7d826ee4f",
+        "takeout_price": "45",
+        "takeout_cost": 6,
+        "delivery_time": "42",
+        "bussiness_status": 3,
+        "shop_id": "2109607103",
+        "saled_month": 2,
+        "shop_lng": 13375000,
+        "shop_lat": 3521730,
+        "source_name": "30553",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 1,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "0",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 1738.07,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 1,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://img.waimai.baidu.com/pb/c5f8bd4c785450c60cca00625a620a067f;https://img.waimai.baidu.com/pb/14e8d0ab76f2e6fd36dfe531464061363d",
+        "shop_mark_pic": "https://img.waimai.baidu.com/pb/c5f8bd4c785450c60cca00625a620a067f",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [],
+        "average_score": 5,
+        "front_logistics_text": "百度专送",
+        "front_logistics_type": "baidulogistics",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          },
+          {
+            "type": "express",
+            "msg": "百度专送"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          },
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 1,
+          "support_invoice_show": "开发票",
+          "support_invoice_show_short": "发票"
+        },
+        "bd_express": 1,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1993204266",
+        "advance_need_order_day": 0,
+        "shop_name": "重庆小面麻辣烫（定海街店）",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/52bd342b05f3b4569e4352e4b35c8868c0",
+        "takeout_price": "20",
+        "takeout_cost": "5",
+        "delivery_time": "35",
+        "bussiness_status": 3,
+        "shop_id": "1993204266",
+        "saled_month": 6,
+        "shop_lng": 13375100,
+        "shop_lat": 3524470,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "21.5",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 656.486,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "1989795",
+          "534643"
+        ],
+        "average_score": 4.1,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "1989795",
+            "start_time": "1497196800",
+            "end_time": "1531411199",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满10减9，满30减12，满45减20",
+            "msg_short": [
+              "满10减9",
+              "满30减12",
+              "满45减20"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满10元减9元，满30元减12元，满45元减20元",
+                "discount_rate": 90
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满10元减9元，满30元减12元，满45元减20元",
+                "discount_rate": 90
+              }
+            ],
+            "msg_origin": "满10减9，满30减12，满45减20",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534643",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减8元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减8",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "1989795",
+            "start_time": "1497196800",
+            "end_time": "1531411199",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满10减9，满30减12，满45减20",
+            "msg_short": [
+              "满10减9",
+              "满30减12",
+              "满45减20"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满10元减9元，满30元减12元，满45元减20元",
+                "discount_rate": 90
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满10元减9元，满30元减12元，满45元减20元",
+                "discount_rate": 90
+              }
+            ],
+            "msg_origin": "满10减9，满30减12，满45减20",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534643",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减8元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减8",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满10减9，满30减12，满45减20"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "2014774940",
+        "advance_need_order_day": 0,
+        "shop_name": "张阿姨奶茶（台州路店）",
+        "rank_str": "{\"finalStr\":10,\"strList\":[\"10\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/bddbadde4ca541da34525041d71c1276b6",
+        "takeout_price": "20",
+        "takeout_cost": "3",
+        "delivery_time": "40",
+        "bussiness_status": 3,
+        "shop_id": "2014774940",
+        "saled_month": 5,
+        "shop_lng": 13375400,
+        "shop_lat": 3523690,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "22.5",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 403.707,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "2986168",
+          "534643"
+        ],
+        "average_score": 5,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "2986168",
+            "start_time": "1521020639",
+            "end_time": "1649843039",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满22减8，满35减11，满55减16",
+            "msg_short": [
+              "满22减8",
+              "满35减11",
+              "满55减16"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满22元减8元，满35元减11元，满55元减16元",
+                "discount_rate": 36
+              }
+            ],
+            "msg_origin": "满22减8，满35减11，满55减16",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534643",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减8元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减8",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "2986168",
+            "start_time": "1521020639",
+            "end_time": "1649843039",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满22减8，满35减11，满55减16",
+            "msg_short": [
+              "满22减8",
+              "满35减11",
+              "满55减16"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满22元减8元，满35元减11元，满55元减16元",
+                "discount_rate": 36
+              }
+            ],
+            "msg_origin": "满22减8，满35减11，满55减16",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534643",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减8元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减8",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满22减8，满35减11，满55减16"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1829185060",
+        "advance_need_order_day": 0,
+        "shop_name": "兰州牛肉拉面（石祥路店）",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/566ce9a71fd6455d7be768e1f2f1a6615f",
+        "takeout_price": "0",
+        "takeout_cost": "5",
+        "delivery_time": "45",
+        "bussiness_status": 3,
+        "shop_id": "1829185060",
+        "saled_month": 2,
+        "shop_lng": 13374800,
+        "shop_lat": 3525640,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "15",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 1663.69,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [],
+        "average_score": 4.7,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1840029018",
+        "advance_need_order_day": 0,
+        "shop_name": "一点点（运河上街店）",
+        "rank_str": "{\"finalStr\":10,\"strList\":[\"10\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/92b6bfb0ebeb8208a46d747f5ad4b9f615",
+        "takeout_price": "0",
+        "takeout_cost": 5,
+        "delivery_time": "30",
+        "bussiness_status": 3,
+        "shop_id": "1840029018",
+        "saled_month": 23,
+        "shop_lng": 13375100,
+        "shop_lat": 3523600,
+        "source_name": "31513",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 9,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "20",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 168.455,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg;https://img.waimai.baidu.com/pb/941d35dc52c456587613e73d95cf5261cd",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [],
+        "average_score": 4.8,
+        "front_logistics_text": "百度专送",
+        "front_logistics_type": "baidulogistics",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          },
+          {
+            "type": "express",
+            "msg": "百度专送"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          },
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 1,
+          "support_invoice_show": "开发票",
+          "support_invoice_show_short": "发票"
+        },
+        "bd_express": 1,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1987523295",
+        "advance_need_order_day": 0,
+        "shop_name": "青茶（小河路店）",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/2ecfeacd93eb70a4011d06484ffad38847",
+        "takeout_price": "15",
+        "takeout_cost": 3,
+        "delivery_time": "35",
+        "bussiness_status": 3,
+        "shop_id": "1987523295",
+        "saled_month": 10,
+        "shop_lng": 13374500,
+        "shop_lat": 3523090,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "33",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 671.51,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "2102787",
+          "534621"
+        ],
+        "average_score": 5,
+        "front_logistics_text": "百度专送",
+        "front_logistics_type": "baidulogistics",
+        "welfare_info": [
+          {
+            "aid": "2102787",
+            "start_time": "1502121600",
+            "end_time": "1567871999",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "(手机app专享)满25减6，满45减15",
+            "msg_short": [
+              "满25减6",
+              "满45减15"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满25元减6元，满45元减15元",
+                "discount_rate": 33
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满25元减6元，满45元减15元",
+                "discount_rate": 33
+              }
+            ],
+            "msg_origin": "满25减6，满45减15",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534621",
+            "start_time": "1467204027",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减6元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减6",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "express",
+            "msg": "百度专送"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "2102787",
+            "start_time": "1502121600",
+            "end_time": "1567871999",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "(手机app专享)满25减6，满45减15",
+            "msg_short": [
+              "满25减6",
+              "满45减15"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满25元减6元，满45元减15元",
+                "discount_rate": 33
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满25元减6元，满45元减15元",
+                "discount_rate": 33
+              }
+            ],
+            "msg_origin": "满25减6，满45减15",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534621",
+            "start_time": "1467204027",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减6元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减6",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "(手机app专享)满25减6，满45减15"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 1,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "2105677549",
+        "advance_need_order_day": 0,
+        "shop_name": "禧御贡茶（花园岗店）",
+        "rank_str": "{\"finalStr\":10,\"strList\":[\"10\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/c99a8382662c7b716241f38b0f11cff4a2",
+        "takeout_price": "30",
+        "takeout_cost": "6",
+        "delivery_time": "50",
+        "bussiness_status": 3,
+        "shop_id": "2105677549",
+        "saled_month": 2,
+        "shop_lng": 13372900,
+        "shop_lat": 3524520,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "19",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 1873.12,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "534654"
+        ],
+        "average_score": 5,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          },
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 1,
+          "support_invoice_show": "开发票",
+          "support_invoice_show_short": "发票"
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1581538357",
+        "advance_need_order_day": 0,
+        "shop_name": "咬不得（运河店）",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/2726762b3a81c3982cc00e35eea8c49506",
+        "takeout_price": "20",
+        "takeout_cost": "6",
+        "delivery_time": "30",
+        "bussiness_status": 3,
+        "shop_id": "1581538357",
+        "saled_month": 46,
+        "shop_lng": 13375000,
+        "shop_lat": 3523540,
+        "source_name": "30214",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 1,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "23.78",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 176.073,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg;https://img.waimai.baidu.com/pb/941d35dc52c456587613e73d95cf5261cd",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "534610",
+          "c350222"
+        ],
+        "average_score": 4.8,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "534610",
+            "start_time": "1467204027",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减5元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减5",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "invoice",
+            "msg": "开发票",
+            "msg_short": [
+              "发票"
+            ]
+          },
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "534610",
+            "start_time": "1467204027",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减5元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减5",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 1,
+          "support_invoice_show": "开发票",
+          "support_invoice_show_short": "发票"
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1964662549",
+        "advance_need_order_day": 0,
+        "shop_name": "弥茶（运河上街店）",
+        "rank_str": "{\"finalStr\":10,\"strList\":[\"10\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/27877699ffda00125f2e61d22214e61459",
+        "takeout_price": "20",
+        "takeout_cost": 5,
+        "delivery_time": "46",
+        "bussiness_status": 3,
+        "shop_id": "1964662549",
+        "saled_month": 0,
+        "shop_lng": 13375300,
+        "shop_lat": 3523630,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 9,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "29",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 301.635,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg;https://img.waimai.baidu.com/pb/941d35dc52c456587613e73d95cf5261cd",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/1153426658ef90a27fd795ce395bfd6da5.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [],
+        "average_score": 5,
+        "front_logistics_text": "百度专送",
+        "front_logistics_type": "baidulogistics",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "express",
+            "msg": "百度专送"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 1,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "2105802281",
+        "advance_need_order_day": 0,
+        "shop_name": "伊伊果诱（建华店）",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/6028156b6215e8d2c9807134f849f316a0",
+        "takeout_price": "20",
+        "takeout_cost": "5",
+        "delivery_time": "40",
+        "bussiness_status": 3,
+        "shop_id": "2105802281",
+        "saled_month": 8,
+        "shop_lng": 13376300,
+        "shop_lat": 3523390,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "12.9",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 1167.73,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "2421942",
+          "534654"
+        ],
+        "average_score": 5,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "2421942",
+            "start_time": "1505923200",
+            "end_time": "1571673599",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满20减19，满55减30",
+            "msg_short": [
+              "满20减19",
+              "满55减30"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满20元减19元，满55元减30元",
+                "discount_rate": 95
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满20元减19元，满55元减30元",
+                "discount_rate": 95
+              }
+            ],
+            "msg_origin": "满20减19，满55减30",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "2421942",
+            "start_time": "1505923200",
+            "end_time": "1571673599",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满20减19，满55减30",
+            "msg_short": [
+              "满20减19",
+              "满55减30"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满20元减19元，满55元减30元",
+                "discount_rate": 95
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满20元减19元，满55元减30元",
+                "discount_rate": 95
+              }
+            ],
+            "msg_origin": "满20减19，满55减30",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满20减19，满55减30"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1918113815",
+        "advance_need_order_day": 0,
+        "shop_name": "玉山小厨（登云路店）",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"categoryIdEaten\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/0a309930a23b0a95894fb816b3d90d1f23",
+        "takeout_price": "20",
+        "takeout_cost": "5",
+        "delivery_time": "45",
+        "bussiness_status": 3,
+        "shop_id": "1918113815",
+        "saled_month": 34,
+        "shop_lng": 13372900,
+        "shop_lat": 3521810,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "18.5",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 2426.63,
+        "recommended_reason": "试试133人点赞的宜兴香米",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/822e0b6f42176f7d4f70c905fa7f013eb0.jpg;https://img.waimai.baidu.com/pb/485a2564130cf857a27a4adb3e32d43661",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/822e0b6f42176f7d4f70c905fa7f013eb0.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "2944506",
+          "534775"
+        ],
+        "average_score": 4.6,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "2944506",
+            "start_time": "1519895150",
+            "end_time": "1648717550",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满30减15，满60减23，满90减30",
+            "msg_short": [
+              "满30减15",
+              "满60减23",
+              "满90减30"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满30元减15元，满60元减23元，满90元减30元",
+                "discount_rate": 50
+              }
+            ],
+            "msg_origin": "满30减15，满60减23，满90减30",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534775",
+            "start_time": "1467204031",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减20元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减20",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "2944506",
+            "start_time": "1519895150",
+            "end_time": "1648717550",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满30减15，满60减23，满90减30",
+            "msg_short": [
+              "满30减15",
+              "满60减23",
+              "满90减30"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满30元减15元，满60元减23元，满90元减30元",
+                "discount_rate": 50
+              }
+            ],
+            "msg_origin": "满30减15，满60减23，满90减30",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534775",
+            "start_time": "1467204031",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减20元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减20",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满30减15，满60减23，满90减30"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1710515562",
+        "advance_need_order_day": 0,
+        "shop_name": "魔咖工坊（赵伍路店）",
+        "rank_str": "{\"finalStr\":10,\"strList\":[\"10\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/431919b9e61975ca90bf30f3b3abcd76eb",
+        "takeout_price": "30",
+        "takeout_cost": "5",
+        "delivery_time": "45",
+        "bussiness_status": 3,
+        "shop_id": "1710515562",
+        "saled_month": 0,
+        "shop_lng": 13373600,
+        "shop_lat": 3522110,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "0",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 1820.12,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [],
+        "average_score": 5,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1642352426",
+        "advance_need_order_day": 0,
+        "shop_name": "味蒸正秘制鲜包",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/e3eb482344aba215783e4a60aa07a5330a",
+        "takeout_price": "30",
+        "takeout_cost": "5",
+        "delivery_time": "50",
+        "bussiness_status": 3,
+        "shop_id": "1642352426",
+        "saled_month": 10,
+        "shop_lng": 13380800,
+        "shop_lat": 3524040,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "18.4",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 5019.31,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "1989849",
+          "534610"
+        ],
+        "average_score": 4.4,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "1989849",
+            "start_time": "1497196800",
+            "end_time": "1531411199",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满21减10，满45减14，满60减16",
+            "msg_short": [
+              "满21减10",
+              "满45减14",
+              "满60减16"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满21元减10元，满45元减14元，满60元减16元",
+                "discount_rate": 47
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满21元减10元，满45元减14元，满60元减16元",
+                "discount_rate": 47
+              }
+            ],
+            "msg_origin": "满21减10，满45减14，满60减16",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534610",
+            "start_time": "1467204027",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减5元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减5",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "1989849",
+            "start_time": "1497196800",
+            "end_time": "1531411199",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满21减10，满45减14，满60减16",
+            "msg_short": [
+              "满21减10",
+              "满45减14",
+              "满60减16"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5",
+                "msg": "在线支付满21元减10元，满45元减14元，满60元减16元",
+                "discount_rate": 47
+              },
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "0,6",
+                "msg": "在线支付满21元减10元，满45元减14元，满60元减16元",
+                "discount_rate": 47
+              }
+            ],
+            "msg_origin": "满21减10，满45减14，满60减16",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534610",
+            "start_time": "1467204027",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减5元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减5",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满21减10，满45减14，满60减16"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1710446837",
+        "advance_need_order_day": 0,
+        "shop_name": "马迭尔（水晶城店）",
+        "rank_str": "{\"finalStr\":10,\"strList\":[\"10\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "https://img.waimai.baidu.com/pb/faf82f342e4df8af598f9caf5baa16ff4b",
+        "takeout_price": "100",
+        "takeout_cost": "5",
+        "delivery_time": "35",
+        "bussiness_status": 3,
+        "shop_id": "1710446837",
+        "saled_month": 1,
+        "shop_lng": 13376100,
+        "shop_lat": 3521780,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "160",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 1966.7,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "https://s.waimai.baidu.com/static/node_h5/822e0b6f42176f7d4f70c905fa7f013eb0.jpg;https://img.waimai.baidu.com/pb/485a2564130cf857a27a4adb3e32d43661",
+        "shop_mark_pic": "https://s.waimai.baidu.com/static/node_h5/822e0b6f42176f7d4f70c905fa7f013eb0.jpg",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [],
+        "average_score": 4.9,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [],
+        "welfare_spe_info": [],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 0,
+          "discount_send_show": "",
+          "discount_first_order_show": ""
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      },
+      {
+        "end_time": "",
+        "average_service_score": 0,
+        "comment_service_num": 0,
+        "average_dish_score": 0,
+        "comment_dish_num": 0,
+        "supplier_id": "",
+        "bussiness_status_reason": "",
+        "delivery_regions": "",
+        "takeout_deliver_regions_type": "",
+        "origial_region_type": "",
+        "is_online": 1,
+        "sort": 0,
+        "saled": 0,
+        "is_collected": false,
+        "is_favorited": 0,
+        "comment_num": 0,
+        "is_recommend": 0,
+        "brand": "",
+        "top_hot_dish": [],
+        "peak_cutdown_msg": "",
+        "takeout_cost_original": "",
+        "release_id": "1439273984",
+        "advance_need_order_day": 0,
+        "shop_name": "洪涛便当盖饭",
+        "rank_str": "{\"finalStr\":11,\"strList\":[\"11\"],\"cpcInfo\":\"\",\"recommReasonStr\":\"\",\"negShopRuleStr\":\"\",\"bottomNegShopRuleStr\":\"\"}",
+        "logo_url": "http://img.waimai.baidu.com/pb/bde5699b423264aca30f4d2b5673a2a2fd",
+        "takeout_price": "35",
+        "takeout_cost": "8",
+        "delivery_time": "50",
+        "bussiness_status": 3,
+        "shop_id": "1439273984",
+        "saled_month": 63,
+        "shop_lng": 13376300,
+        "shop_lat": 3523400,
+        "source_name": "baidu",
+        "is_store": 0,
+        "specialmarkchain": 0,
+        "ka_extend_id": 0,
+        "out_of_range": 0,
+        "card_id": "0",
+        "avg_price": "11.805",
+        "shop_template_name": "",
+        "category": null,
+        "top": 0,
+        "distance": 1162.85,
+        "recommended_reason": "",
+        "highcost_msg": "",
+        "is_new": 0,
+        "shop_announcement": "本店欢迎您下单，用餐高峰请提前下单，谢谢！",
+        "shop_mark_pic_tmp": "",
+        "shop_mark_pic": "",
+        "start_time": "",
+        "bussiness_status_text": "",
+        "activity_ids": [
+          "3042226",
+          "534654",
+          "shop_coupon_1439273984"
+        ],
+        "average_score": 4.3,
+        "front_logistics_text": "",
+        "front_logistics_type": "self",
+        "welfare_info": [
+          {
+            "aid": "3042226",
+            "start_time": "1523116800",
+            "end_time": "1527782399",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满28减27，满60减30，满70减33",
+            "msg_short": [
+              "满28减27",
+              "满60减30",
+              "满70减33"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满28元减27元，满60元减30元，满70元减33元",
+                "discount_rate": 96
+              }
+            ],
+            "msg_origin": "满28减27，满60减30，满70减33",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "shop_coupon_1439273984",
+            "start_time": "1519967655",
+            "end_time": "1525103999",
+            "type": "shop_coupon",
+            "adesc": "本店新用户可领新用户券1元",
+            "msg": "(手机app专享)本店新用户可领新用户券1元",
+            "hdesc": "新用户进店领1元券",
+            "msg_short": [
+              "领1元券"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          }
+        ],
+        "welfare_basic_info": [
+          {
+            "type": "bright_kitchen",
+            "msg": "堂食实景"
+          },
+          {
+            "type": "certification",
+            "msg": "资质证照"
+          },
+          {
+            "type": "pay",
+            "msg": "支持在线支付"
+          }
+        ],
+        "welfare_act_info": [
+          {
+            "aid": "3042226",
+            "start_time": "1523116800",
+            "end_time": "1527782399",
+            "type": "jian",
+            "adesc": "立减优惠",
+            "msg": "满28减27，满60减30，满70减33",
+            "msg_short": [
+              "满28减27",
+              "满60减30",
+              "满70减33"
+            ],
+            "available_times": [
+              {
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "available_day": "1,2,3,4,5,6,0",
+                "msg": "在线支付满28元减27元，满60元减30元，满70元减33元",
+                "discount_rate": 96
+              }
+            ],
+            "msg_origin": "满28减27，满60减30，满70减33",
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "shop_coupon_1439273984",
+            "start_time": "1519967655",
+            "end_time": "1525103999",
+            "type": "shop_coupon",
+            "adesc": "本店新用户可领新用户券1元",
+            "msg": "(手机app专享)本店新用户可领新用户券1元",
+            "hdesc": "新用户进店领1元券",
+            "msg_short": [
+              "领1元券"
+            ],
+            "app_zhuanxiang": 0
+          },
+          {
+            "aid": "534654",
+            "start_time": "1467204028",
+            "end_time": "1893427200",
+            "type": "xin",
+            "adesc": "新用户立减",
+            "msg": "(手机app专享)新用户立减9元，钱包新用户随机最高减8元",
+            "msg_short": [
+              "首单减9",
+              "钱包随机减"
+            ],
+            "app_zhuanxiang": 0
+          }
+        ],
+        "welfare_spe_info": [
+          {
+            "type": "shop_couponspe",
+            "msg": "新用户进店领1元券"
+          }
+        ],
+        "welfare_couponamout_info": [],
+        "is_certificated": 1,
+        "discount_info": {
+          "is_discount_send": 0,
+          "is_discount_first_order": 1,
+          "discount_send_show": "",
+          "discount_first_order_show": "满28减27，满60减30，满70减33"
+        },
+        "coupon_info": {
+          "support_coupon": 0,
+          "coupon_msg": ""
+        },
+        "invoice_info": {
+          "is_support_invoice": 0,
+          "support_invoice_show": "",
+          "support_invoice_show_short": ""
+        },
+        "bd_express": 0,
+        "shop_peak_cutdown_text": ""
+      }
+    ],
+    "total": 365,
+    "all_total": 365,
+    "aoi_id": "5766331287844406626",
+    "welfare_group": [
+      {
+        "title": "配送方式",
+        "select_type": "single",
+        "filter": [
+          {
+            "type": "express",
+            "msg": "百度专送"
+          }
+        ]
+      },
+      {
+        "title": "优惠信息",
+        "select_type": "single",
+        "filter": [
+          {
+            "type": "has_activity",
+            "msg": "优惠商家"
+          },
+          {
+            "type": "jian",
+            "msg": "立减优惠"
+          },
+          {
+            "type": "te",
+            "msg": "特价商品"
+          },
+          {
+            "type": "shop_coupon",
+            "msg": "进店领券"
+          },
+          {
+            "type": "fan_quan_yue",
+            "msg": "下单返券/余额"
+          },
+          {
+            "type": "zeng",
+            "msg": "下单满赠"
+          },
+          {
+            "type": "mian",
+            "msg": "满免配送费"
+          },
+          {
+            "type": "preorder",
+            "msg": "预订优惠"
+          }
+        ]
+      },
+      {
+        "title": "商家服务（多选）",
+        "select_type": "multi",
+        "filter": [
+          {
+            "type": "takeout_cost_mian",
+            "msg": "免配送费"
+          },
+          {
+            "type": "brand",
+            "msg": "品牌商家"
+          },
+          {
+            "type": "invoice",
+            "msg": "开发票"
+          },
+          {
+            "type": "pay",
+            "msg": "在线支付"
+          }
+        ]
+      }
+    ],
+    "new_shop_count": 8,
+    "activity_ids": [
+      "c347062",
+      "534698",
+      "2884919",
+      "534632",
+      "2969273",
+      "534654",
+      "1989795",
+      "534643",
+      "2986168",
+      "2102787",
+      "534621",
+      "534610",
+      "c350222",
+      "2421942",
+      "2944506",
+      "534775",
+      "1989849",
+      "3042226",
+      "shop_coupon_1439273984"
+    ],
+    "jian_count": 413,
+    "data_notice": {
+      "city_id": "179",
+      "poi_address": "拱墅区政府"
+    },
+    "welfare": [
+      {
+        "type": "jian",
+        "msg": "立减优惠"
+      },
+      {
+        "type": "fan",
+        "msg": "下单返券"
+      },
+      {
+        "type": "preorder",
+        "msg": "预订优惠"
+      },
+      {
+        "type": "te",
+        "msg": "特价商品"
+      },
+      {
+        "type": "maizeng",
+        "msg": ""
+      },
+      {
+        "type": "shop_coupon",
+        "msg": "进店领券"
+      },
+      {
+        "type": "mian",
+        "msg": "满免配送费"
+      },
+      {
+        "type": "zeng",
+        "msg": "下单满赠"
+      },
+      {
+        "type": "xin",
+        "msg": "新用户立减"
+      },
+      {
+        "type": "certification",
+        "msg": "资质证照"
+      },
+      {
+        "type": "coupon",
+        "msg": "支持代金券"
+      },
+      {
+        "type": "invoice",
+        "msg": "开发票"
+      },
+      {
+        "type": "pay",
+        "msg": "在线支付"
+      },
+      {
+        "type": "express",
+        "msg": "百度专送"
+      },
+      {
+        "type": "bright_kitchen",
+        "msg": "有实体店"
+      }
+    ],
+    "shop_rank": {
+      "rank_url": "bdwm://plugin?pluginId=bdwm.plugin.bangdan&pageName=index&header=1",
+      "rank_position": 20,
+      "rank_pic": "https://img.waimai.baidu.com/pb/30338de14e43165c2c8caecc691f8ad8ca@w_<wm[width]wm>,h_<wm[height]wm>,s_2,cf_1,l_1,q_60",
+      "rank_word1": "美食精选",
+      "rank_word2": "升华味蕾",
+      "rank_word3": "让我们流连忘返的那些店"
+    },
+    "classify": [
+      {
+        "id": 0,
+        "cn_name": "all",
+        "name": "全部",
+        "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+        "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+        "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+        "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+        "isNew": 0,
+        "header_id": 8,
+        "header_name": "点外卖",
+        "num": 365
+      },
+      {
+        "id": "17",
+        "name": "快食简餐",
+        "cn_name": "快食简餐",
+        "url_1x": "https://img.waimai.baidu.com/pb/ecf09af69f02a37fbef0f5093168db9a8e",
+        "url_2x": "https://img.waimai.baidu.com/pb/a99d7a792ec00427fc8562033f79c29d7d",
+        "url_3x": "https://img.waimai.baidu.com/pb/a99d7a792ec00427fc8562033f79c29d7d",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/bc65c85e548576342bbc80c3eede880118",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/bc65c85e548576342bbc80c3eede880118",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 212,
+        "child": [
+          {
+            "id": "17",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 212,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "33",
+            "name": "家常小炒",
+            "cn_name": "家常小炒",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 102,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "34",
+            "name": "黄焖鸡米饭",
+            "cn_name": "黄焖鸡米饭",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 9,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "35",
+            "name": "麻辣烫",
+            "cn_name": "麻辣烫",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 6,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "71",
+            "name": "炒饭",
+            "cn_name": "炒饭",
+            "url_1x": "https://img.waimai.baidu.com/pb/03aa8081d43126608d6b31fe3c6c5dfe52",
+            "url_2x": "https://img.waimai.baidu.com/pb/1e07ecff3e6b263184c56457218c225f5d",
+            "url_3x": "https://img.waimai.baidu.com/pb/d3fa0c5199590057196ec2233f5fd3443b",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/1e07ecff3e6b263184c56457218c225f5d",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/d3fa0c5199590057196ec2233f5fd3443b",
+            "num": 12,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "39",
+            "name": "盖饭",
+            "cn_name": "盖饭",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 45,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "132",
+            "name": "面馆",
+            "cn_name": "面馆",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 40,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "130",
+            "name": "米粉米线",
+            "cn_name": "米粉米线",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 15,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "129",
+            "name": "冒菜",
+            "cn_name": "冒菜",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 1,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "127",
+            "name": "饺子馄饨",
+            "cn_name": "饺子馄饨",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 21,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "126",
+            "name": "包子粥饼",
+            "cn_name": "包子粥饼",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 25,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "125",
+            "name": "生煎锅贴",
+            "cn_name": "生煎锅贴",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 2,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "40",
+            "name": "凉皮",
+            "cn_name": "凉皮",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 1,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "36",
+            "name": "羊汤羊杂",
+            "cn_name": "羊汤羊杂",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 1,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "91",
+            "name": "鸭脖卤味",
+            "cn_name": "鸭脖卤味",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 9,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "90",
+            "name": "炸鸡炸串",
+            "cn_name": "炸鸡炸串",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 15,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "105",
+            "name": "茶餐厅",
+            "cn_name": "茶餐厅",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 17,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "122",
+            "name": "其他快餐",
+            "cn_name": "其他快餐",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 44,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "name": "地方菜",
+        "cn_name": "地方菜",
+        "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+        "url_2x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+        "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/72260a06651e78c63009ff1a2fcea10160",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/72260a06651e78c63009ff1a2fcea10160",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 49,
+        "child": [
+          {
+            "id": "24",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 49,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "41",
+            "name": "北京菜",
+            "cn_name": "北京菜",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 2,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "42",
+            "name": "川菜",
+            "cn_name": "川菜",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 6,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "31",
+            "name": "湘菜",
+            "cn_name": "湘菜",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 1,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "43",
+            "name": "东北菜",
+            "cn_name": "东北菜",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 2,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "44",
+            "name": "粤菜",
+            "cn_name": "粤菜",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 23,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "81",
+            "name": "浙江菜",
+            "cn_name": "浙江菜",
+            "url_1x": "https://img.waimai.baidu.com/pb/bc65c85e548576342bbc80c3eede880118",
+            "url_2x": "https://img.waimai.baidu.com/pb/a99d7a792ec00427fc8562033f79c29d7d",
+            "url_3x": "https://img.waimai.baidu.com/pb/8cd0de1a43d549a321b3b2c5bf8c80367b",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/a99d7a792ec00427fc8562033f79c29d7d",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/8cd0de1a43d549a321b3b2c5bf8c80367b",
+            "num": 18,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "124",
+            "name": "地方小吃",
+            "cn_name": "地方小吃",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 12,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "45",
+            "name": "其他地方菜",
+            "cn_name": "其他地方菜",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 26,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "name": "西式简餐",
+        "cn_name": "西式简餐",
+        "url_1x": "https://img.waimai.baidu.com/pb/694613ced7b403a0450d175fb0994ba2ab",
+        "url_2x": "https://img.waimai.baidu.com/pb/7a4544d296f9484a17f1bd436da314f425",
+        "url_3x": "https://img.waimai.baidu.com/pb/7a4544d296f9484a17f1bd436da314f425",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/47b4f44bada342e33fba6c7b5814fc49fb",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/47b4f44bada342e33fba6c7b5814fc49fb",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 25,
+        "child": [
+          {
+            "id": "22",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 25,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "123",
+            "name": "炸鸡汉堡薯条",
+            "cn_name": "炸鸡汉堡薯条",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 18,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "54",
+            "name": "披萨",
+            "cn_name": "披萨",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 10,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "55",
+            "name": "三明治",
+            "cn_name": "三明治",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 3,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "121",
+        "name": "异国风味",
+        "cn_name": "异国风味",
+        "url_1x": "https://img.waimai.baidu.com/pb/e26f0a6f893371d42bd8b146e87c924b38",
+        "url_2x": "https://img.waimai.baidu.com/pb/dac3c9d070c2729a10f1fb32e60c7d2dc2",
+        "url_3x": "https://img.waimai.baidu.com/pb/dac3c9d070c2729a10f1fb32e60c7d2dc2",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/11df3d10f2c3eb0eeadb3a95718e5509f9",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/11df3d10f2c3eb0eeadb3a95718e5509f9",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 42,
+        "child": [
+          {
+            "id": "121",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 42,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "51",
+            "name": "日本料理",
+            "cn_name": "日本料理",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 8,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "52",
+            "name": "韩式料理",
+            "cn_name": "韩式料理",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 7,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "27",
+            "name": "西餐",
+            "cn_name": "西餐",
+            "url_1x": "http://t11.baidu.com/it/u=4256840290,3531193657&fm=22",
+            "url_2x": "http://t10.baidu.com/it/u=1110397728,1690731459&fm=22",
+            "url_3x": "http://t11.baidu.com/it/u=2045264908,1964751631&fm=22",
+            "url_2x_color": "http://t10.baidu.com/it/u=1110397728,1690731459&fm=22",
+            "url_3x_color": "http://t11.baidu.com/it/u=2045264908,1964751631&fm=22",
+            "num": 29,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "68",
+        "name": "中式正餐",
+        "cn_name": "中式正餐",
+        "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+        "url_2x": "https://img.waimai.baidu.com/pb/0c8944eb0e9cdaa40c8917f148369760e6",
+        "url_3x": "https://img.waimai.baidu.com/pb/0c8944eb0e9cdaa40c8917f148369760e6",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/0677cb6e9c16404caa06df67e3a53d4249",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/0677cb6e9c16404caa06df67e3a53d4249",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 201,
+        "child": [
+          {
+            "id": "68",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 201,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "24",
+            "name": "地方菜",
+            "cn_name": "地方菜",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_3x": "https://img.waimai.baidu.com/pb/72260a06651e78c63009ff1a2fcea10160",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/72260a06651e78c63009ff1a2fcea10160",
+            "num": 49,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "82",
+            "name": "香锅烤鱼",
+            "cn_name": "香锅烤鱼",
+            "url_1x": "https://img.waimai.baidu.com/pb/9489b475bcd9d73d3d5ab44f6f580dbdb6",
+            "url_2x": "https://img.waimai.baidu.com/pb/8cd0de1a43d549a321b3b2c5bf8c80367b",
+            "url_3x": "https://img.waimai.baidu.com/pb/7014bd267448e364bf4de7d335bd4742ee",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/8cd0de1a43d549a321b3b2c5bf8c80367b",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/7014bd267448e364bf4de7d335bd4742ee",
+            "num": 10,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "26",
+            "name": "火锅",
+            "cn_name": "火锅",
+            "url_1x": "https://img.waimai.baidu.com/pb/cb70896eb2647b474c6aee6a440b27d50c",
+            "url_2x": "https://img.waimai.baidu.com/pb/fad5610a13aad126d1ce46897b34f5b980",
+            "url_3x": "https://img.waimai.baidu.com/pb/246c300a38b70930403b36ec3678dec904",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/fad5610a13aad126d1ce46897b34f5b980",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/246c300a38b70930403b36ec3678dec904",
+            "num": 6,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "92",
+            "name": "粥粉面",
+            "cn_name": "粥粉面",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 79,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "148",
+            "name": "烧烤海鲜",
+            "cn_name": "烧烤海鲜",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 68,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "86",
+            "name": "创意私房菜",
+            "cn_name": "创意私房菜",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 11,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "name": "烧烤海鲜",
+        "cn_name": "烧烤海鲜",
+        "url_1x": "https://img.waimai.baidu.com/pb/06259384ead36eaa1833572df4c444ef7b",
+        "url_2x": "https://img.waimai.baidu.com/pb/84e72ad8dd3d378844ff745c4f1a0e4688",
+        "url_3x": "https://img.waimai.baidu.com/pb/84e72ad8dd3d378844ff745c4f1a0e4688",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/755edc2c9b30dba9fb8b2dc8f7790a2c4d",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/755edc2c9b30dba9fb8b2dc8f7790a2c4d",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 66,
+        "child": [
+          {
+            "id": "23",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 66,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "117",
+            "name": "烧烤",
+            "cn_name": "烧烤",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 22,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "63",
+            "name": "海鲜",
+            "cn_name": "海鲜",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 29,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "48",
+            "name": "小龙虾",
+            "cn_name": "小龙虾",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 27,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "104",
+        "name": "甜点饮品",
+        "cn_name": "甜点饮品",
+        "url_1x": "https://img.waimai.baidu.com/pb/09373efa5f80eda95444e1e1d0c1ae6945",
+        "url_2x": "https://img.waimai.baidu.com/pb/9f0299c17be342ee8323fa1cb8cf75e49c",
+        "url_3x": "https://img.waimai.baidu.com/pb/9f0299c17be342ee8323fa1cb8cf75e49c",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/2b0d1f3beb21a57e1f51d44fc951246b16",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/2b0d1f3beb21a57e1f51d44fc951246b16",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 111,
+        "child": [
+          {
+            "id": "104",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 111,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "116",
+            "name": "面包糕点",
+            "cn_name": "面包糕点",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 64,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "111",
+            "name": "奶茶果汁",
+            "cn_name": "奶茶果汁",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 43,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "108",
+            "name": "咖啡",
+            "cn_name": "咖啡",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 6,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "107",
+            "name": "冰淇淋",
+            "cn_name": "冰淇淋",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 15,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "110",
+            "name": "其他饮品",
+            "cn_name": "其他饮品",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 25,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "name": "水果生鲜",
+        "cn_name": "水果生鲜",
+        "url_1x": "https://img.waimai.baidu.com/pb/85b20c1256a5232463b6d265e78cdc1386",
+        "url_2x": "https://img.waimai.baidu.com/pb/cb58825771b2ae4a2622acd0173b37e3b9",
+        "url_3x": "https://img.waimai.baidu.com/pb/cb58825771b2ae4a2622acd0173b37e3b9",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/2573cea7e53c45ec3a1292bcf6b3525d29",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/2573cea7e53c45ec3a1292bcf6b3525d29",
+        "isNew": 0,
+        "header_id": "",
+        "header_name": null,
+        "num": 28,
+        "child": [
+          {
+            "id": "13",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 28,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "57",
+            "name": "新鲜水果",
+            "cn_name": "新鲜水果",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 24,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "58",
+            "name": "生鲜水产",
+            "cn_name": "生鲜水产",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 7,
+            "header_id": "",
+            "header_name": null
+          }
+        ],
+        "jump_native_url": "bdwm://plugin?pluginId=bdwm.plugin.supermarket&pageName=index&scrollViewBounces=0&pageData=%7B%22taste%22%3A13%7D&contentId=A0003"
+      },
+      {
+        "id": "20",
+        "name": "下午茶",
+        "cn_name": "下午茶",
+        "url_1x": "https://img.waimai.baidu.com/pb/09373efa5f80eda95444e1e1d0c1ae6945",
+        "url_2x": "https://img.waimai.baidu.com/pb/9f0299c17be342ee8323fa1cb8cf75e49c",
+        "url_3x": "https://img.waimai.baidu.com/pb/9f0299c17be342ee8323fa1cb8cf75e49c",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/2b0d1f3beb21a57e1f51d44fc951246b16",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/2b0d1f3beb21a57e1f51d44fc951246b16",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 111,
+        "child": [
+          {
+            "id": "20",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 111,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "65",
+            "name": "甜点",
+            "cn_name": "甜点",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 64,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "64",
+            "name": "饮品",
+            "cn_name": "饮品",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 64,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "149",
+            "name": "咖啡",
+            "cn_name": "咖啡",
+            "url_1x": "https://img.waimai.baidu.com/pb/231b8f1c58a52b9087c1735912d8aad267",
+            "url_2x": "https://img.waimai.baidu.com/pb/2172973279118837bbfb3932a68903ddcd",
+            "url_3x": "https://img.waimai.baidu.com/pb/ec352d97581dd910a2e99f54c3ef77b663",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/2172973279118837bbfb3932a68903ddcd",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/ec352d97581dd910a2e99f54c3ef77b663",
+            "num": 6,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "118",
+            "name": "新鲜水果",
+            "cn_name": "新鲜水果",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 24,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "106",
+            "name": "美味小吃",
+            "cn_name": "美味小吃",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 50,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ],
+        "jump_native_url": "bdwm://plugin?pluginId=bdwm.plugin.dessert&pageName=index&contentId=A0004",
+        "jump_hybrid_url": "bainuo://component?url=http%3A%2F%2Fwaimai.baidu.com%2Fstatic%2Fdessert%2Findex.html%3Ffrom%3Dnuomi"
+      },
+      {
+        "id": "12",
+        "name": "鲜花蛋糕",
+        "cn_name": "鲜花蛋糕",
+        "url_1x": "https://img.waimai.baidu.com/pb/b3298e1d6a85a31c8e958166d27b604c67",
+        "url_2x": "https://img.waimai.baidu.com/pb/44a754d7564e72398f8bdd8e12e2aee714",
+        "url_3x": "https://img.waimai.baidu.com/pb/44a754d7564e72398f8bdd8e12e2aee714",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/37da0b4058418cdc64715eb52d3248091b",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/37da0b4058418cdc64715eb52d3248091b",
+        "isNew": 0,
+        "header_id": "",
+        "header_name": null,
+        "num": 319,
+        "child": [
+          {
+            "id": "12",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 319,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "59",
+            "name": "鲜花",
+            "cn_name": "鲜花",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 263,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "60",
+            "name": "蛋糕",
+            "cn_name": "蛋糕",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 56,
+            "header_id": "",
+            "header_name": null
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "超市购",
+        "cn_name": "超市购",
+        "url_1x": "https://img.waimai.baidu.com/pb/1d4b6487f6973cc6bb5a79e2b7a2696c15",
+        "url_2x": "https://img.waimai.baidu.com/pb/b7c766aaa268e4416b09a5d0aeeb06b655",
+        "url_3x": "https://img.waimai.baidu.com/pb/b7c766aaa268e4416b09a5d0aeeb06b655",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/f1dffc9ad335cb08a44e31efe9b5975f28",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/f1dffc9ad335cb08a44e31efe9b5975f28",
+        "isNew": 0,
+        "header_id": "",
+        "header_name": null,
+        "num": 50,
+        "child": [
+          {
+            "id": "10",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 50,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "136",
+            "name": "超市卖场",
+            "cn_name": "超市卖场",
+            "url_1x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "num": 12,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "138",
+            "name": "便利店",
+            "cn_name": "便利店",
+            "url_1x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "num": 16,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "140",
+            "name": "零食酒水",
+            "cn_name": "零食酒水",
+            "url_1x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "num": 7,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "137",
+            "name": "美妆母婴",
+            "cn_name": "美妆母婴",
+            "url_1x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "num": 4,
+            "header_id": "",
+            "header_name": null
+          },
+          {
+            "id": "141",
+            "name": "其他",
+            "cn_name": "其他",
+            "url_1x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/8e66df1000cf243b575060ced9852e1c68",
+            "num": 7,
+            "header_id": "",
+            "header_name": null
+          }
+        ],
+        "jump_native_url": "bdwm://plugin?pluginId=bdwm.plugin.supermarket&pageName=index&header=1&contentId=A0002",
+        "jump_hybrid_url": "bdwm://plugin?pluginId=bdwm.plugin.supermarket&pageName=index&header=1&contentId=A0002"
+      },
+      {
+        "id": "21",
+        "name": "夜宵",
+        "cn_name": "夜宵",
+        "url_1x": "https://img.waimai.baidu.com/pb/231b8f1c58a52b9087c1735912d8aad267",
+        "url_2x": "https://img.waimai.baidu.com/pb/fbfa517e5aadbba763b6198beb109cd4a2",
+        "url_3x": "https://img.waimai.baidu.com/pb/fbfa517e5aadbba763b6198beb109cd4a2",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/ea7f47f254df14ff8638b045c5cc8cc579",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/ea7f47f254df14ff8638b045c5cc8cc579",
+        "isNew": 0,
+        "header_id": "8",
+        "header_name": "餐饮",
+        "num": 98,
+        "child": [
+          {
+            "id": "21",
+            "cn_name": "all",
+            "name": "全部",
+            "url_1x": "https://img.waimai.baidu.com/pb/dbed14c4cb831bff5f0e5ab92a78a4517c@s_0,w_18,h_46",
+            "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+            "url_3x": "https://img.waimai.baidu.com/pb/68037a0d5ca6eb706f0801c09a4d923f17",
+            "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/64e984c1cdd204c0e1f525e1cb70744fa7",
+            "num": 98,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "94",
+            "name": "烤鱼",
+            "cn_name": "烤鱼",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 8,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "38",
+            "name": "香锅",
+            "cn_name": "香锅",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 3,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "32",
+            "name": "粥粉面",
+            "cn_name": "粥粉面",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 79,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "103",
+            "name": "卤煮卤味",
+            "cn_name": "卤煮卤味",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/a99d7a792ec00427fc8562033f79c29d7d",
+            "url_3x": "https://img.waimai.baidu.com/pb/bc65c85e548576342bbc80c3eede880118",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/a99d7a792ec00427fc8562033f79c29d7d",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/bc65c85e548576342bbc80c3eede880118",
+            "num": 20,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "56",
+            "name": "炸鸡汉堡",
+            "cn_name": "炸鸡汉堡",
+            "url_1x": "http://t12.baidu.com/it/u=2334127928,3627532718&fm=22",
+            "url_2x": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "url_2x_color": "http://t11.baidu.com/it/u=3806821489,2094007552&fm=22",
+            "url_3x_color": "http://t10.baidu.com/it/u=1148361621,15566127&fm=22",
+            "num": 30,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "102",
+            "name": "烤串海鲜",
+            "cn_name": "烤串海鲜",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 53,
+            "header_id": "8",
+            "header_name": "餐饮"
+          },
+          {
+            "id": "101",
+            "name": "美酒",
+            "cn_name": "美酒",
+            "url_1x": "https://img.waimai.baidu.com/pb/6c3abfe430c46276fba79b41af952f2ddf",
+            "url_2x": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "url_2x_color": "https://img.waimai.baidu.com/pb/da82aedfad21d67b34e1b52ce57ee7c6c3",
+            "url_3x_color": "https://img.waimai.baidu.com/pb/01c83c6415f40216872d4b950b3990b2ad",
+            "num": 1,
+            "header_id": "8",
+            "header_name": "餐饮"
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "name": "送药上门",
+        "cn_name": "送药上门",
+        "url_1x": "https://img.waimai.baidu.com/pb/75d6566d684b29e647c16a5d05c580e9ce",
+        "url_2x": "https://img.waimai.baidu.com/pb/542d153c534b6a71cdac4354630f5850eb",
+        "url_3x": "https://img.waimai.baidu.com/pb/542d153c534b6a71cdac4354630f5850eb",
+        "url_2x_color": "https://img.waimai.baidu.com/pb/fc2481d578e7936c08ca1a7c32826e3eb8",
+        "url_3x_color": "https://img.waimai.baidu.com/pb/fc2481d578e7936c08ca1a7c32826e3eb8",
+        "isNew": 0,
+        "header_id": "",
+        "header_name": null,
+        "num": 15
+      }
+    ],
+    "old_classify": [
+      {
+        "id": "0",
+        "cn_name": "all",
+        "name": "全部",
+        "url_1x": "http://t12.baidu.com/it/u=1516301291,418318762&fm=22",
+        "url_2x": "http://t10.baidu.com/it/u=2931380358,3287968471&fm=22",
+        "url_3x": "http://t11.baidu.com/it/u=2770055905,39877055&fm=22",
+        "url_2x_color": "http://t11.baidu.com/it/u=3957081457,3027062048&fm=22",
+        "url_3x_color": "http://t11.baidu.com/it/u=2165515687,3245170348&fm=22",
+        "isNew": "0"
+      },
+      {
+        "id": "84",
+        "cn_name": "brand",
+        "name": "品牌快餐",
+        "url_1x": "http://t10.baidu.com/it/u=1355795424,296642042&fm=22",
+        "url_2x": "http://t12.baidu.com/it/u=1108727960,3312907313&fm=22",
+        "url_3x": "http://t11.baidu.com/it/u=2850139156,535523684&fm=22",
+        "url_2x_color": "http://t11.baidu.com/it/u=2034630748,332561055&fm=22",
+        "url_3x_color": "http://t11.baidu.com/it/u=4066889356,3325539193&fm=22",
+        "isNew": "0"
+      },
+      {
+        "id": "64",
+        "cn_name": "chinese",
+        "name": "中式正餐",
+        "url_1x": "http://t12.baidu.com/it/u=2445558455,4224918371&fm=22",
+        "url_2x": "http://t10.baidu.com/it/u=3373036515,322943740&fm=22",
+        "url_3x": "http://t10.baidu.com/it/u=2823813603,2439709329&fm=22",
+        "url_2x_color": "http://t11.baidu.com/it/u=1039870390,4151872150&fm=22",
+        "url_3x_color": "http://t11.baidu.com/it/u=1320486598,4202161431&fm=22",
+        "isNew": "0"
+      },
+      {
+        "id": "68",
+        "cn_name": "snack",
+        "name": "小吃快餐",
+        "url_1x": "http://t12.baidu.com/it/u=4052289518,2920662847&fm=22",
+        "url_2x": "http://t12.baidu.com/it/u=1350612977,1094519062&fm=22",
+        "url_3x": "http://t11.baidu.com/it/u=3967303510,459793057&fm=22",
+        "url_2x_color": "http://t10.baidu.com/it/u=3415472658,3082525890&fm=22",
+        "url_3x_color": "http://t11.baidu.com/it/u=4056496954,2798609887&fm=22",
+        "isNew": "0"
+      },
+      {
+        "id": "76",
+        "cn_name": "sweet",
+        "name": "咖啡甜品",
+        "url_1x": "http://t10.baidu.com/it/u=234645000,4273988767&fm=22",
+        "url_2x": "http://t11.baidu.com/it/u=1813440325,1098539236&fm=22",
+        "url_3x": "http://t10.baidu.com/it/u=2434932546,391003246&fm=22",
+        "url_2x_color": "http://t11.baidu.com/it/u=3815748589,3931891229&fm=22",
+        "url_3x_color": "http://t12.baidu.com/it/u=927557384,2002129292&fm=22",
+        "isNew": "0"
+      },
+      {
+        "id": "80",
+        "cn_name": "bread",
+        "name": "面包蛋糕",
+        "url_1x": "http://t10.baidu.com/it/u=326868243,1990841866&fm=22",
+        "url_2x": "http://t10.baidu.com/it/u=4221106830,4293794874&fm=22",
+        "url_3x": "http://t12.baidu.com/it/u=868672622,1794508566&fm=22",
+        "url_2x_color": "http://t12.baidu.com/it/u=1647267527,2700247086&fm=22",
+        "url_3x_color": "http://t11.baidu.com/it/u=2571162421,3209045554&fm=22",
+        "isNew": "0"
+      },
+      {
+        "id": "72",
+        "cn_name": "cuisine",
+        "name": "日韩料理",
+        "url_1x": "http://t12.baidu.com/it/u=842556230,1603751972&fm=22",
+        "url_2x": "http://t10.baidu.com/it/u=237856884,50607273&fm=22",
+        "url_3x": "http://t10.baidu.com/it/u=1431463929,1737991306&fm=22",
+        "url_2x_color": "http://t12.baidu.com/it/u=3712530053,2756014933&fm=22",
+        "url_3x_color": "http://t12.baidu.com/it/u=2754642476,142594648&fm=22",
+        "isNew": "0"
+      }
+    ],
+    "sortby": [
+      {
+        "msg": "综合排序",
+        "type": "",
+        "url_2x": "http://waimai.baidu.com/static/forapp/all@2x.png",
+        "url_2x_color": "http://waimai.baidu.com/static/forapp/all_color@2x.png",
+        "url_3x": "http://waimai.baidu.com/static/forapp/all@3x.png",
+        "url_3x_color": "http://waimai.baidu.com/static/forapp/all_color@3x.png"
+      },
+      {
+        "msg": "销量最高",
+        "type": "month_sales",
+        "url_2x": "http://waimai.baidu.com/static/forapp/saled@2x.png",
+        "url_2x_color": "http://waimai.baidu.com/static/forapp/saled_color@2x.png",
+        "url_3x": "http://waimai.baidu.com/static/forapp/saled@3x.png",
+        "url_3x_color": "http://waimai.baidu.com/static/forapp/saled_color@3x.png"
+      },
+      {
+        "msg": "距离最近",
+        "type": "distance",
+        "url_2x": "http://waimai.baidu.com/static/forapp/distance@2x.png",
+        "url_2x_color": "http://waimai.baidu.com/static/forapp/distance_color@2x.png",
+        "url_3x": "http://waimai.baidu.com/static/forapp/distance@3x.png",
+        "url_3x_color": "http://waimai.baidu.com/static/forapp/distance_color@3x.png"
+      },
+      {
+        "msg": "评分最高",
+        "type": "comment",
+        "url_2x": "http://waimai.baidu.com/static/forapp/comment@2x.png",
+        "url_2x_color": "http://waimai.baidu.com/static/forapp/comment_color@2x.png",
+        "url_3x": "http://waimai.baidu.com/static/forapp/comment@3x.png",
+        "url_3x_color": "http://waimai.baidu.com/static/forapp/comment_color@3x.png"
+      },
+      {
+        "msg": "起送价最低",
+        "type": "takeout_price",
+        "url_2x": "http://waimai.baidu.com/static/forapp/takeout_price@2x.png",
+        "url_2x_color": "http://waimai.baidu.com/static/forapp/takeout_price_color@2x.png",
+        "url_3x": "http://waimai.baidu.com/static/forapp/takeout_price@3x.png",
+        "url_3x_color": "http://waimai.baidu.com/static/forapp/takeout_price_color@3x.png"
+      },
+      {
+        "msg": "配送最快",
+        "type": "dtime",
+        "url_2x": "http://waimai.baidu.com/static/forapp/dtime@2x.png",
+        "url_2x_color": "http://waimai.baidu.com/static/forapp/dtime_color@2x.png",
+        "url_3x": "http://waimai.baidu.com/static/forapp/dtime@3x.png",
+        "url_3x_color": "http://waimai.baidu.com/static/forapp/dtime_color@3x.png"
+      },
+      {
+        "msg": "人均最高",
+        "type": "avg_price_desc",
+        "url_2x": "http://img.waimai.baidu.com/pb/9f4f2a16a7109561209324a59e420780c6",
+        "url_2x_color": "http://img.waimai.baidu.com/pb/5a8fd1884729fbf920d2ac60ee49eed65f",
+        "url_3x": "http://img.waimai.baidu.com/pb/2b99fff439fff7d52145e7b202a4eb8540",
+        "url_3x_color": "http://img.waimai.baidu.com/pb/03ef9e31a313218dda6fc35e1cf4816fc4"
+      },
+      {
+        "msg": "人均最低",
+        "type": "avg_price_asc",
+        "url_2x": "http://img.waimai.baidu.com/pb/08befe4d50a061714f770660c73570a0aa",
+        "url_2x_color": "http://img.waimai.baidu.com/pb/986d397804b7087f1a5bdd0dcf2c38be53",
+        "url_3x": "http://img.waimai.baidu.com/pb/889ab57f20943710456baed94905a7cc65",
+        "url_3x_color": "http://img.waimai.baidu.com/pb/d2d5563c60497df759596ff22744f56e90"
+      }
+    ],
+    "activity_mobile": [],
+    "activity_img": [],
+    "banner_list": [],
+    "convenient_num": 50,
+    "selldish": {
+      "list": [],
+      "count": 0
+    },
+    "activity_list": [],
+    "display_new_shop": true,
+    "exist_activity": "",
+    "correction": "",
+    "circle_showid": "",
+    "da_abtest": "",
+    "dish_info": [],
+    "dish_total": 0,
+    "dish_count": 0,
+    "keywd": [],
+    "is_redwd": 0,
+    "cate_guide": [],
+    "out_of_range": 0,
+    "alter_wd": "",
+    "scene_flags": "",
+    "dish_tags": null,
+    "stat_index_classify_count": {
+      "8": 365,
+      "9": 8,
+      "10": 50,
+      "11": 40,
+      "12": 319,
+      "13": 28,
+      "14": 365,
+      "17": 212,
+      "18": 45,
+      "19": 15,
+      "20": 111,
+      "21": 98,
+      "22": 25,
+      "23": 66,
+      "24": 49,
+      "25": 15,
+      "26": 6,
+      "27": 29,
+      "31": 1,
+      "32": 79,
+      "33": 102,
+      "34": 9,
+      "35": 6,
+      "36": 1,
+      "37": 1,
+      "38": 3,
+      "39": 45,
+      "40": 1,
+      "41": 2,
+      "42": 6,
+      "43": 2,
+      "44": 23,
+      "45": 26,
+      "46": 12,
+      "47": 12,
+      "48": 27,
+      "49": 12,
+      "50": 12,
+      "51": 8,
+      "52": 7,
+      "53": 18,
+      "54": 10,
+      "55": 3,
+      "56": 30,
+      "57": 24,
+      "58": 7,
+      "59": 263,
+      "60": 56,
+      "61": 21,
+      "62": 6,
+      "63": 29,
+      "64": 64,
+      "65": 64,
+      "67": 24,
+      "68": 201,
+      "70": 41,
+      "71": 12,
+      "72": 1,
+      "74": 1,
+      "76": 1,
+      "77": 1,
+      "78": 2,
+      "79": 241,
+      "81": 18,
+      "82": 10,
+      "86": 11,
+      "87": 54,
+      "88": 212,
+      "90": 15,
+      "91": 9,
+      "92": 79,
+      "93": 29,
+      "94": 8,
+      "95": 64,
+      "97": 127,
+      "98": 38,
+      "99": 366,
+      "100": 8,
+      "101": 1,
+      "102": 53,
+      "103": 20,
+      "104": 111,
+      "105": 17,
+      "106": 50,
+      "107": 15,
+      "108": 6,
+      "109": 1,
+      "110": 25,
+      "111": 43,
+      "112": 77,
+      "113": 49,
+      "114": 53,
+      "116": 64,
+      "117": 22,
+      "118": 24,
+      "120": 25,
+      "121": 42,
+      "122": 44,
+      "123": 18,
+      "124": 12,
+      "125": 2,
+      "126": 25,
+      "127": 21,
+      "128": 27,
+      "129": 1,
+      "130": 15,
+      "132": 40,
+      "136": 12,
+      "137": 4,
+      "138": 16,
+      "139": 4,
+      "140": 7,
+      "141": 7,
+      "143": 189,
+      "147": 7,
+      "148": 68,
+      "149": 6,
+      "152": 6,
+      "153": 49,
+      "154": 17,
+      "155": 15,
+      "156": 32,
+      "157": 3,
+      "159": 6,
+      "160": 5,
+      "162": 7,
+      "163": 1,
+      "164": 2,
+      "165": 2,
+      "167": 3,
+      "168": 73,
+      "169": 120,
+      "172": 4,
+      "174": 365,
+      "175": 22,
+      "176": 2,
+      "177": 1,
+      "180": 2,
+      "181": 2,
+      "182": 111,
+      "184": 2,
+      "185": 3,
+      "186": 18,
+      "187": 1,
+      "188": 1,
+      "194": 2,
+      "205": 7,
+      "211": 1,
+      "212": 2,
+      "213": 1,
+      "214": 1,
+      "215": 9,
+      "216": 1,
+      "217": 2,
+      "218": 6,
+      "219": 1,
+      "220": 1,
+      "221": 1,
+      "222": 12,
+      "223": 15,
+      "224": 15,
+      "225": 15,
+      "226": 9,
+      "228": 21,
+      "229": 6,
+      "230": 21,
+      "231": 7,
+      "232": 3,
+      "233": 8,
+      "234": 18,
+      "235": 2,
+      "236": 10,
+      "237": 3,
+      "238": 64,
+      "239": 56,
+      "240": 43,
+      "241": 15,
+      "242": 1,
+      "243": 2,
+      "244": 6,
+      "246": 45,
+      "247": 6,
+      "248": 5,
+      "249": 12,
+      "250": 45,
+      "251": 23,
+      "252": 12,
+      "253": 40,
+      "254": 10,
+      "255": 9,
+      "256": 13,
+      "257": 11,
+      "258": 2,
+      "259": 4,
+      "260": 27,
+      "261": 8,
+      "262": 1,
+      "263": 1,
+      "265": 1,
+      "267": 2,
+      "268": 4,
+      "269": 4,
+      "270": 339,
+      "272": 15,
+      "273": 28,
+      "275": 365,
+      "278": 4,
+      "281": 28,
+      "fan": 59,
+      "jian": 413,
+      "maizeng": 1,
+      "mian": 23,
+      "preorder": 33,
+      "shop_coupon": 81,
+      "te": 14,
+      "xin": 720,
+      "zeng": 15,
+      "zhe": 14,
+      "advance_order_day": 383,
+      "takeout_cost": 298,
+      "coupon": 643,
+      "doorface_photos": 604,
+      "kitchen_photos": 703,
+      "industry_qualification_photos": 289,
+      "subject_qualification_photos": 465,
+      "invoice": 217,
+      "payment": 720,
+      "is_store": 351,
+      "express": 122,
+      "baiduzhongbao": 3,
+      "self": 577,
+      "allshop": 365
+    },
+    "banner_stats": null,
+    "banner_statis": null,
+    "activity_stats": null,
+    "gametags_stats": null,
+    "dish_activity_stats": null,
+    "range_number": 0,
+    "hashKey": null,
+    "recall_info": {
+      "address": "拱墅区人民政府",
+      "lat": "3523730.48",
+      "lng": "13374944.12"
+    },
+    "is_show_welfare": 0
+  },
+  "params": {
+    "qt": "shoplist",
+    "address": "拱墅区人民政府",
+    "lat": "3523730.48",
+    "lng": "13374944.12",
+    "page": "1",
+    "count": "20",
+    "display": "json",
+    "third_party": null
+  },
+  "cookie_data": {
+    "address": "拱墅区人民政府",
+    "lat": "3523730.48",
+    "lng": "13374944.12"
+  }
+}
