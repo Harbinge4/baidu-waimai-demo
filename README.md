@@ -1,6 +1,8 @@
 # baidu-waimai
 
-> a vue sample project
+>a demo uses vuejs to replicate baidu-waimai mobile website.
+
+>still in progress.
 
 ## Build Setup
 
